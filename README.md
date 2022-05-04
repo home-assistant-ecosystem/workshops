@@ -1,2 +1,3 @@
-# workshops
-Material of Home Assistant workshops
+# Workshops, talks, awards
+
+Presentation material of Home Assistant for workshops, talks and awards.
